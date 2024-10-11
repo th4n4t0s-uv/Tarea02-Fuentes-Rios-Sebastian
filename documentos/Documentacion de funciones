@@ -1,0 +1,7 @@
+mostrar_ayuda(): Se especifica el parámetro a utilizar, y también se da una breve explicación de qué hace cada parámetro.
+
+obtener_fabricante_mac(mac): Mediante el uso de una API externa se logra obtener el nombre del fabricante asociado a su respectiva direccion mac, indicando además el tiempo de respuesta asociado a la consulta.
+
+obtener_tabla_arp(): Se crea una tabla en base a la tabla ARP del ordenador, donde se logra apreciar todas las direcciones MAC registradas y los fabricantes asociados a cada una de ellas.
+
+main(): Se ejecutan todas las funciones anteriormente mencionadas y muestra en pantalla la información que solicite el usuario.
